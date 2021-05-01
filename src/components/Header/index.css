@@ -1,0 +1,16 @@
+header {
+  width: 100%;
+  height: rem;
+  background: #005C69;
+
+  padding: 2.5rem;
+}
+
+header > h1 {
+  color: #fff;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+
